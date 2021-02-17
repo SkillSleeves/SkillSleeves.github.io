@@ -65,11 +65,11 @@ th, td
 
 
 
-a:link { color: #d33682; }
-a:visited { color: #859900; }
-a:focus { color: #d33682; }
-a:hover { color: #d33682; }
-a:active { color: #d33682; }
+a:link { color: #d33682; font-weight: bold; }
+a:visited { color: #2aa198;  font-weight: bold;}
+a:focus { color: #d33682; font-weight: bold; }
+a:hover { color: #d33682; font-weight: bold;}
+a:active { color: #d33682; font-weight: bold; }
 
 /* -----------------------
 Layout styles

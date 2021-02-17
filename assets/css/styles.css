@@ -85,6 +85,7 @@ Layout styles
 }
 
 .nav a:link { color: white; }
+.nav a:hover { color: #d33682; }
 
 .container
 {

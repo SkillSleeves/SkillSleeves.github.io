@@ -84,6 +84,8 @@ Layout styles
 	border-bottom: 1px solid gray;
 }
 
+.nav a:link { color: white; }
+
 .container
 {
 	max-width: 50em;

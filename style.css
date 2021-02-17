@@ -20,6 +20,11 @@ Add transition to containers so they can push in and out.
     transition: all 0.2s ease-out;
 }
 
+
+#parent {
+    display: grid;
+    grid-template-columns: minmax(150px, 25%) 1fr;
+  }
 /*
 This is the parent `<div>` that contains the menu and the content area.
 */

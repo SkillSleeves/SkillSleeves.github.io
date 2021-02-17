@@ -6,8 +6,7 @@ body
 {
 	margin: 0;
 	padding: 0;
-	color: #blue;
-	background-color: #red;
+	color: #073642;
 	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 }
 
@@ -78,7 +77,6 @@ Layout styles
 {
 	display: block;
 	padding: .7em 1.25em;
-	color: #fff;
 	text-decoration: none;
 	border-bottom: 1px solid gray;
 }
@@ -92,7 +90,7 @@ Layout styles
 .header
 {
 	color: #073642;
-	background: #fdf6e3;
+	background: #fff;
 	padding: 1em 1.25em;
 }
 
@@ -107,7 +105,7 @@ Layout styles
 .content
 {
 	padding: 1em 1.25em;
-	background-color: #fdf6e3;
+	background-color: #fff;
 }
 
 .footer

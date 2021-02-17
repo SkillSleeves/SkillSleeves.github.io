@@ -63,6 +63,8 @@ th, td
 	border-bottom: 1px solid #ddd;
 }
 
+
+
 a:link { color: #d33682; }
 a:visited { color: #859900; }
 a:focus { color: #d33682; }
@@ -72,6 +74,14 @@ a:active { color: #d33682; }
 /* -----------------------
 Layout styles
 ------------------------*/
+.nav a
+{
+	display: block;
+	padding: .7em 1.25em;
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 1px solid gray;
+}
 
 .container
 {
@@ -82,7 +92,7 @@ Layout styles
 .header
 {
 	color: #073642;
-	background: #93a1a1;
+	background: #fdf6e3;
 	padding: 1em 1.25em;
 }
 
@@ -97,13 +107,13 @@ Layout styles
 .content
 {
 	padding: 1em 1.25em;
-	background-color: #93a1a1;
+	background-color: #fdf6e3;
 }
 
 .footer
 {
 	color: #586e75;
-	background: #93a1a1;
+	background: #eee8d5;
 	padding: 1em 1.25em;
 }
 

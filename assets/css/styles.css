@@ -6,8 +6,8 @@ body
 {
 	margin: 0;
 	padding: 0;
-	color: #2aa198;
-	background-color: #002b36;
+	color: #002b36;
+	background-color: #fdf6e3;
 	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
 }
 
@@ -63,11 +63,11 @@ th, td
 	border-bottom: 1px solid #ddd;
 }
 
-a:link { color: royalblue; }
-a:visited { color: purple; }
-a:focus { color: black; }
-a:hover { color: green; }
-a:active { color: red; }
+a:link { color: #d33682; }
+a:visited { color: #859900; }
+a:focus { color: #d33682; }
+a:hover { color: #d33682; }
+a:active { color: #d33682; }
 
 /* -----------------------
 Layout styles
@@ -81,8 +81,8 @@ Layout styles
 
 .header
 {
-	color: #fff;
-	background: #999;
+	color: #073642;
+	background: #93a1a1;
 	padding: 1em 1.25em;
 }
 
@@ -90,20 +90,20 @@ Layout styles
 
 .nav-bar
 {
-	background: #000;
+	background: #eee8d5;
 	padding: 0;
 }
 
 .content
 {
 	padding: 1em 1.25em;
-	background-color: #fff;
+	background-color: #93a1a1;
 }
 
 .footer
 {
-	color: #fff;
-	background: #000;
+	color: #586e75;
+	background: #93a1a1;
 	padding: 1em 1.25em;
 }
 

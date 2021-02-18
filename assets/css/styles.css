@@ -148,7 +148,7 @@ Single styles
 ------------------------*/
 
 .img-responsive { max-width: 100%; }
-
+.img-responsive-smaller { max-width: 80%; }
 .btn
 {
 	color: #fff !important;
